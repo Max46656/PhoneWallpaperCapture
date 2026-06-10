@@ -36,8 +36,12 @@ F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\bin\Debug\net10.
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\bin\Debug\net10.0-windows\Microsoft.Xaml.Behaviors.dll
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.csproj.AssemblyReference.cache
+F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\UI\Views\MainWindow.g.cs
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\App.g.cs
+F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture_MarkupCompile.cache
+F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture_MarkupCompile.lref
+F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\UI\Views\MainWindow.baml
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.g.resources
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.GeneratedMSBuildEditorConfig.editorconfig
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.AssemblyInfoInputs.cache
@@ -50,5 +54,3 @@ F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.pdb
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\PhoneWallpaperCapture.genruntimeconfig.cache
 F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\ref\PhoneWallpaperCapture.dll
-F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\UI\Views\MainWindow.g.cs
-F:\程式開發\PhoneWallpaperCapture\src\PhoneWallpaperCapture\obj\Debug\net10.0-windows\UI\Views\MainWindow.baml

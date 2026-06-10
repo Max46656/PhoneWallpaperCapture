@@ -3,15 +3,29 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:PhoneWallpaperCapture.UI.ViewModels"
         mc:Ignorable="d"
-        Title="Phone Wallpaper Capture"
-        Height="650" Width="1200"
+        Title="{Binding Title}" 
+        Height="1080" Width="1920"
         WindowStartupLocation="CenterScreen">
 
-    <Grid>
-        <TextBlock Text="Phone Wallpaper Capture 應用程式初始化中..." 
-                   HorizontalAlignment="Center" 
-                   VerticalAlignment="Center"
-                   FontSize="16"/>
+    <Window.DataContext>
+        <vm:MainWindowViewModel />
+    </Window.DataContext>
+
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Title}" 
+                       FontSize="28" FontWeight="SemiBold" 
+                       Margin="0,0,0,30" HorizontalAlignment="Center"/>
+
+            <TextBlock Text="{Binding StatusMessage}" 
+                       FontSize="16" Foreground="Gray" 
+                       HorizontalAlignment="Center" Margin="0,0,0,40"/>
+
+            <Button Content="MVVM 命令測試" 
+                    Command="{Binding TestCommand}"
+                    Height="50" Width="280" FontSize="16"/>
+        </StackPanel>
     </Grid>
 </Window>
