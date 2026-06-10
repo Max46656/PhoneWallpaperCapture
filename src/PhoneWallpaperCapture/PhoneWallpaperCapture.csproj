@@ -11,6 +11,7 @@
 
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <StartupObject>PhoneWallpaperCapture.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
